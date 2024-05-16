@@ -1,3 +1,6 @@
+pvpltools-python/pvpltools/module_efficiency.py
+https://github.com/adriesse
+
 def adr(irradiance, temperature, k_a, k_d, tc_d, k_rs, k_rsh):
     '''
     Calculate PV module efficiency using the ADR model.
